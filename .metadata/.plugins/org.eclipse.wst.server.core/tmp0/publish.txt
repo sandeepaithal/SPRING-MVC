@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Oct 09 10:22:48 IST 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Lenovo\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=WEB-INF/lib/spring-web-5.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Lenovo\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.12\\tomcat-jasper-9.0.12.jar=WEB-INF/lib/tomcat-jasper-9.0.12.jar
